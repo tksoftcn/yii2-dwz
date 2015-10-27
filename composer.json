@@ -1,0 +1,28 @@
+{
+  "name" : "tksoftcn/yii2-dwz",
+  "description" : "DWZ UI界面 for Yii 2.0",
+  "version" : "1.0",
+  "require" : {
+    "php" : ">=5.4.0",
+    "tksoftcn/yii2-enhance" : ">=1.0"
+  },
+  "license" : "BSD-3-Clause",
+  "keywords" : [ "yii2", "dwz", "ui" ],
+  "minimum-stability" : "stable",
+  "autoload" : {
+    "psr-4" : {
+      "tksoftcn\\dwz\\" : ""
+    }
+  },
+  "type" : "yii2-extension",
+  "support" : {
+    "issues" : "https://github.com/tksoftcn/yii2-dwz/issues",
+    "forum" : "http://forum.tksoft.cn",
+    "source" : "https://github.com/tksoftcn/yii2-dwz"
+  },
+  "homepage" : "http://framework.tksoft.cn/",
+  "authors" : [ {
+    "name" : "TongKe Chen",
+    "email" : "chentongke@tksoft.cn"
+  } ]
+}
